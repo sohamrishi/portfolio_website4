@@ -1,7 +1,8 @@
 
 nav{
-    background-color: black;
+   background-color: rgb(33, 97, 208);
     display: flexbox;
+    border-radius: 4rem;
 
 }
 nav ul {
